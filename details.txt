@@ -1,0 +1,13 @@
+Assignment 2
+
+Choose a dataset from any source on the internet which has several variables and datapoints.
+a) Perform PCA to reduce the number of independent variables - 
+
+one example of an online tool which does SVD for you is  https://labriata.github.io/jsinscience/pca/index.html - this tool mainly gives the U,S,V from the SVD decomposition and some plots -  to process further and display further results and do the dimensionality reduction and feed the calculated results to another tool;
+
+another example is https://biit.cs.ut.ee/clustvis/ - please explore to see all the features, you should first see the example and then learn how to upload your own dataset to do the PCA and then download the reduced dataset - to process further and display further results, feed the calculated results to another tool;
+
+
+b) On the dataset with reduced dimension, 
+    i) Perform a scatter plot (in two or three dimensions), and do cluster analysis
+    ii) Choose any one variable as dependent and the rest being independent and perform linear regression analysis
